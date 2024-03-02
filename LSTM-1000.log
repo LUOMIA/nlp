@@ -1,0 +1,600 @@
+INFO:root:Epoch 1, Batch Loss: 40.726470947265625
+INFO:root:Epoch 2, Batch Loss: 35.088531494140625
+INFO:root:Epoch 3, Batch Loss: 33.865692138671875
+INFO:root:Epoch 4, Batch Loss: 32.341949462890625
+INFO:root:Epoch 5, Batch Loss: 31.457794189453125
+INFO:root:Epoch 6, Batch Loss: 30.40106201171875
+INFO:root:Epoch 7, Batch Loss: 29.67962646484375
+INFO:root:Epoch 8, Batch Loss: 28.8074951171875
+INFO:root:Epoch 9, Batch Loss: 27.92291259765625
+INFO:root:Epoch 10, Batch Loss: 26.748779296875
+INFO:root:Epoch 11, Batch Loss: 24.7335205078125
+INFO:root:Epoch 12, Batch Loss: 24.8214111328125
+INFO:root:Epoch 13, Batch Loss: 24.9896240234375
+INFO:root:Epoch 14, Batch Loss: 23.75140380859375
+INFO:root:Epoch 15, Batch Loss: 24.025634765625
+INFO:root:Epoch 16, Batch Loss: 22.9193115234375
+INFO:root:Epoch 17, Batch Loss: 21.70843505859375
+INFO:root:Epoch 18, Batch Loss: 21.42291259765625
+INFO:root:Epoch 19, Batch Loss: 21.7125244140625
+INFO:root:Epoch 20, Batch Loss: 21.62689208984375
+INFO:root:Epoch 21, Batch Loss: 20.9481201171875
+INFO:root:Epoch 22, Batch Loss: 20.68170166015625
+INFO:root:Epoch 23, Batch Loss: 19.72216796875
+INFO:root:Epoch 24, Batch Loss: 19.29327392578125
+INFO:root:Epoch 25, Batch Loss: 18.6417236328125
+INFO:root:Epoch 26, Batch Loss: 20.08837890625
+INFO:root:Epoch 27, Batch Loss: 18.129150390625
+INFO:root:Epoch 28, Batch Loss: 18.9993896484375
+INFO:root:Epoch 29, Batch Loss: 17.66607666015625
+INFO:root:Epoch 30, Batch Loss: 17.53594970703125
+INFO:root:Epoch 31, Batch Loss: 17.70758056640625
+INFO:root:Epoch 32, Batch Loss: 17.42242431640625
+INFO:root:Epoch 33, Batch Loss: 17.63543701171875
+INFO:root:Epoch 34, Batch Loss: 16.67755126953125
+INFO:root:Epoch 35, Batch Loss: 17.51409912109375
+INFO:root:Epoch 36, Batch Loss: 17.00677490234375
+INFO:root:Epoch 37, Batch Loss: 16.20281982421875
+INFO:root:Epoch 38, Batch Loss: 15.1717529296875
+INFO:root:Epoch 39, Batch Loss: 14.38507080078125
+INFO:root:Epoch 40, Batch Loss: 14.02691650390625
+INFO:root:Epoch 41, Batch Loss: 13.36224365234375
+INFO:root:Epoch 42, Batch Loss: 13.685791015625
+INFO:root:Epoch 43, Batch Loss: 13.48333740234375
+INFO:root:Epoch 44, Batch Loss: 12.518310546875
+INFO:root:Epoch 45, Batch Loss: 12.7313232421875
+INFO:root:Epoch 46, Batch Loss: 12.16766357421875
+INFO:root:Epoch 47, Batch Loss: 11.56939697265625
+INFO:root:Epoch 48, Batch Loss: 11.79266357421875
+INFO:root:Epoch 49, Batch Loss: 11.932373046875
+INFO:root:Epoch 50, Batch Loss: 11.80767822265625
+INFO:root:Epoch 51, Batch Loss: 11.69476318359375
+INFO:root:Epoch 52, Batch Loss: 10.98138427734375
+INFO:root:Epoch 53, Batch Loss: 11.99383544921875
+INFO:root:Epoch 54, Batch Loss: 11.285888671875
+INFO:root:Epoch 55, Batch Loss: 10.87725830078125
+INFO:root:Epoch 56, Batch Loss: 11.7073974609375
+INFO:root:Epoch 57, Batch Loss: 11.62060546875
+INFO:root:Epoch 58, Batch Loss: 11.6605224609375
+INFO:root:Epoch 59, Batch Loss: 11.683349609375
+INFO:root:Epoch 60, Batch Loss: 11.61383056640625
+INFO:root:Epoch 61, Batch Loss: 12.22119140625
+INFO:root:Epoch 62, Batch Loss: 10.83544921875
+INFO:root:Epoch 63, Batch Loss: 10.85992431640625
+INFO:root:Epoch 64, Batch Loss: 10.93634033203125
+INFO:root:Epoch 65, Batch Loss: 11.38543701171875
+INFO:root:Epoch 66, Batch Loss: 11.32183837890625
+INFO:root:Epoch 67, Batch Loss: 11.36224365234375
+INFO:root:Epoch 68, Batch Loss: 10.69842529296875
+INFO:root:Epoch 69, Batch Loss: 10.5001220703125
+INFO:root:Epoch 70, Batch Loss: 10.37628173828125
+INFO:root:Epoch 71, Batch Loss: 10.09051513671875
+INFO:root:Epoch 72, Batch Loss: 10.5037841796875
+INFO:root:Epoch 73, Batch Loss: 9.9898681640625
+INFO:root:Epoch 74, Batch Loss: 11.10223388671875
+INFO:root:Epoch 75, Batch Loss: 9.96270751953125
+INFO:root:Epoch 76, Batch Loss: 10.09051513671875
+INFO:root:Epoch 77, Batch Loss: 9.85601806640625
+INFO:root:Epoch 78, Batch Loss: 10.05377197265625
+INFO:root:Epoch 79, Batch Loss: 9.51953125
+INFO:root:Epoch 80, Batch Loss: 10.59228515625
+INFO:root:Epoch 81, Batch Loss: 10.3310546875
+INFO:root:Epoch 82, Batch Loss: 10.3980712890625
+INFO:root:Epoch 83, Batch Loss: 10.22772216796875
+INFO:root:Epoch 84, Batch Loss: 11.0008544921875
+INFO:root:Epoch 85, Batch Loss: 10.35400390625
+INFO:root:Epoch 86, Batch Loss: 10.20184326171875
+INFO:root:Epoch 87, Batch Loss: 10.040283203125
+INFO:root:Epoch 88, Batch Loss: 10.526611328125
+INFO:root:Epoch 89, Batch Loss: 10.3961181640625
+INFO:root:Epoch 90, Batch Loss: 10.22003173828125
+INFO:root:Epoch 91, Batch Loss: 10.6934814453125
+INFO:root:Epoch 92, Batch Loss: 10.45068359375
+INFO:root:Epoch 93, Batch Loss: 10.2042236328125
+INFO:root:Epoch 94, Batch Loss: 10.24102783203125
+INFO:root:Epoch 95, Batch Loss: 10.524658203125
+INFO:root:Epoch 96, Batch Loss: 10.084228515625
+INFO:root:Epoch 97, Batch Loss: 9.880615234375
+INFO:root:Epoch 98, Batch Loss: 10.39642333984375
+INFO:root:Epoch 99, Batch Loss: 10.09051513671875
+INFO:root:Epoch 100, Batch Loss: 10.37774658203125
+INFO:root:Epoch 101, Batch Loss: 10.11572265625
+INFO:root:Epoch 102, Batch Loss: 9.96600341796875
+INFO:root:Epoch 103, Batch Loss: 9.61395263671875
+INFO:root:Epoch 104, Batch Loss: 9.95721435546875
+INFO:root:Epoch 105, Batch Loss: 9.86456298828125
+INFO:root:Epoch 106, Batch Loss: 10.40924072265625
+INFO:root:Epoch 107, Batch Loss: 9.86798095703125
+INFO:root:Epoch 108, Batch Loss: 10.2022705078125
+INFO:root:Epoch 109, Batch Loss: 10.377685546875
+INFO:root:Epoch 110, Batch Loss: 9.9835205078125
+INFO:root:Epoch 111, Batch Loss: 10.47967529296875
+INFO:root:Epoch 112, Batch Loss: 10.1121826171875
+INFO:root:Epoch 113, Batch Loss: 9.89306640625
+INFO:root:Epoch 114, Batch Loss: 10.0498046875
+INFO:root:Epoch 115, Batch Loss: 9.77001953125
+INFO:root:Epoch 116, Batch Loss: 9.660400390625
+INFO:root:Epoch 117, Batch Loss: 9.73236083984375
+INFO:root:Epoch 118, Batch Loss: 10.10357666015625
+INFO:root:Epoch 119, Batch Loss: 10.06671142578125
+INFO:root:Epoch 120, Batch Loss: 9.98809814453125
+INFO:root:Epoch 121, Batch Loss: 10.93023681640625
+INFO:root:Epoch 122, Batch Loss: 10.11102294921875
+INFO:root:Epoch 123, Batch Loss: 10.391357421875
+INFO:root:Epoch 124, Batch Loss: 10.49444580078125
+INFO:root:Epoch 125, Batch Loss: 10.63958740234375
+INFO:root:Epoch 126, Batch Loss: 10.037353515625
+INFO:root:Epoch 127, Batch Loss: 9.947509765625
+INFO:root:Epoch 128, Batch Loss: 10.17413330078125
+INFO:root:Epoch 129, Batch Loss: 10.51531982421875
+INFO:root:Epoch 130, Batch Loss: 10.26983642578125
+INFO:root:Epoch 131, Batch Loss: 10.2691650390625
+INFO:root:Epoch 132, Batch Loss: 11.0078125
+INFO:root:Epoch 133, Batch Loss: 10.1253662109375
+INFO:root:Epoch 134, Batch Loss: 9.67828369140625
+INFO:root:Epoch 135, Batch Loss: 10.38134765625
+INFO:root:Epoch 136, Batch Loss: 10.366455078125
+INFO:root:Epoch 137, Batch Loss: 10.46038818359375
+INFO:root:Epoch 138, Batch Loss: 9.8355712890625
+INFO:root:Epoch 139, Batch Loss: 10.2127685546875
+INFO:root:Epoch 140, Batch Loss: 9.84234619140625
+INFO:root:Epoch 141, Batch Loss: 10.54058837890625
+INFO:root:Epoch 142, Batch Loss: 10.048095703125
+INFO:root:Epoch 143, Batch Loss: 9.7760009765625
+INFO:root:Epoch 144, Batch Loss: 10.32147216796875
+INFO:root:Epoch 145, Batch Loss: 9.89959716796875
+INFO:root:Epoch 146, Batch Loss: 9.61334228515625
+INFO:root:Epoch 147, Batch Loss: 9.87969970703125
+INFO:root:Epoch 148, Batch Loss: 11.07086181640625
+INFO:root:Epoch 149, Batch Loss: 10.80615234375
+INFO:root:Epoch 150, Batch Loss: 10.51177978515625
+INFO:root:Epoch 151, Batch Loss: 9.838623046875
+INFO:root:Epoch 152, Batch Loss: 10.14190673828125
+INFO:root:Epoch 153, Batch Loss: 9.91302490234375
+INFO:root:Epoch 154, Batch Loss: 10.3955078125
+INFO:root:Epoch 155, Batch Loss: 10.34967041015625
+INFO:root:Epoch 156, Batch Loss: 10.67730712890625
+INFO:root:Epoch 157, Batch Loss: 9.8790283203125
+INFO:root:Epoch 158, Batch Loss: 9.65313720703125
+INFO:root:Epoch 159, Batch Loss: 9.7718505859375
+INFO:root:Epoch 160, Batch Loss: 9.56939697265625
+INFO:root:Epoch 161, Batch Loss: 11.80303955078125
+INFO:root:Epoch 162, Batch Loss: 10.16790771484375
+INFO:root:Epoch 163, Batch Loss: 9.9515380859375
+INFO:root:Epoch 164, Batch Loss: 10.4168701171875
+INFO:root:Epoch 165, Batch Loss: 10.42205810546875
+INFO:root:Epoch 166, Batch Loss: 11.05902099609375
+INFO:root:Epoch 167, Batch Loss: 10.44610595703125
+INFO:root:Epoch 168, Batch Loss: 10.34808349609375
+INFO:root:Epoch 169, Batch Loss: 10.5726318359375
+INFO:root:Epoch 170, Batch Loss: 10.82177734375
+INFO:root:Epoch 171, Batch Loss: 10.728759765625
+INFO:root:Epoch 172, Batch Loss: 10.07843017578125
+INFO:root:Epoch 173, Batch Loss: 10.49615478515625
+INFO:root:Epoch 174, Batch Loss: 10.35540771484375
+INFO:root:Epoch 175, Batch Loss: 10.46026611328125
+INFO:root:Epoch 176, Batch Loss: 11.32073974609375
+INFO:root:Epoch 177, Batch Loss: 10.93505859375
+INFO:root:Epoch 178, Batch Loss: 10.825439453125
+INFO:root:Epoch 179, Batch Loss: 10.22637939453125
+INFO:root:Epoch 180, Batch Loss: 10.9007568359375
+INFO:root:Epoch 181, Batch Loss: 10.2664794921875
+INFO:root:Epoch 182, Batch Loss: 10.97039794921875
+INFO:root:Epoch 183, Batch Loss: 10.557373046875
+INFO:root:Epoch 184, Batch Loss: 10.8040771484375
+INFO:root:Epoch 185, Batch Loss: 10.66058349609375
+INFO:root:Epoch 186, Batch Loss: 10.2137451171875
+INFO:root:Epoch 187, Batch Loss: 10.14556884765625
+INFO:root:Epoch 188, Batch Loss: 11.32470703125
+INFO:root:Epoch 189, Batch Loss: 10.483642578125
+INFO:root:Epoch 190, Batch Loss: 9.9852294921875
+INFO:root:Epoch 191, Batch Loss: 10.8214111328125
+INFO:root:Epoch 192, Batch Loss: 10.18927001953125
+INFO:root:Epoch 193, Batch Loss: 12.42828369140625
+INFO:root:Epoch 194, Batch Loss: 11.0718994140625
+INFO:root:Epoch 195, Batch Loss: 10.2427978515625
+INFO:root:Epoch 196, Batch Loss: 10.11572265625
+INFO:root:Epoch 197, Batch Loss: 11.71575927734375
+INFO:root:Epoch 198, Batch Loss: 10.79364013671875
+INFO:root:Epoch 199, Batch Loss: 10.84869384765625
+INFO:root:Epoch 200, Batch Loss: 10.33697509765625
+INFO:root:Epoch 201, Batch Loss: 10.58612060546875
+INFO:root:Epoch 202, Batch Loss: 10.36993408203125
+INFO:root:Epoch 203, Batch Loss: 10.5970458984375
+INFO:root:Epoch 204, Batch Loss: 10.45428466796875
+INFO:root:Epoch 205, Batch Loss: 11.1220703125
+INFO:root:Epoch 206, Batch Loss: 11.37310791015625
+INFO:root:Epoch 207, Batch Loss: 10.174072265625
+INFO:root:Epoch 208, Batch Loss: 9.90057373046875
+INFO:root:Epoch 209, Batch Loss: 9.9833984375
+INFO:root:Epoch 210, Batch Loss: 9.63916015625
+INFO:root:Epoch 211, Batch Loss: 9.4278564453125
+INFO:root:Epoch 212, Batch Loss: 10.24029541015625
+INFO:root:Epoch 213, Batch Loss: 9.524169921875
+INFO:root:Epoch 214, Batch Loss: 9.80419921875
+INFO:root:Epoch 215, Batch Loss: 10.04180908203125
+INFO:root:Epoch 216, Batch Loss: 10.01446533203125
+INFO:root:Epoch 217, Batch Loss: 10.8251953125
+INFO:root:Epoch 218, Batch Loss: 10.4970703125
+INFO:root:Epoch 219, Batch Loss: 9.87774658203125
+INFO:root:Epoch 220, Batch Loss: 9.59423828125
+INFO:root:Epoch 221, Batch Loss: 9.98516845703125
+INFO:root:Epoch 222, Batch Loss: 9.9046630859375
+INFO:root:Epoch 223, Batch Loss: 9.4608154296875
+INFO:root:Epoch 224, Batch Loss: 9.8626708984375
+INFO:root:Epoch 225, Batch Loss: 9.8809814453125
+INFO:root:Epoch 226, Batch Loss: 9.781494140625
+INFO:root:Epoch 227, Batch Loss: 9.94952392578125
+INFO:root:Epoch 228, Batch Loss: 9.73565673828125
+INFO:root:Epoch 229, Batch Loss: 9.327392578125
+INFO:root:Epoch 230, Batch Loss: 9.44854736328125
+INFO:root:Epoch 231, Batch Loss: 9.4779052734375
+INFO:root:Epoch 232, Batch Loss: 9.56671142578125
+INFO:root:Epoch 233, Batch Loss: 9.35760498046875
+INFO:root:Epoch 234, Batch Loss: 9.0821533203125
+INFO:root:Epoch 235, Batch Loss: 9.33477783203125
+INFO:root:Epoch 236, Batch Loss: 9.51513671875
+INFO:root:Epoch 237, Batch Loss: 9.28375244140625
+INFO:root:Epoch 238, Batch Loss: 8.6488037109375
+INFO:root:Epoch 239, Batch Loss: 9.12066650390625
+INFO:root:Epoch 240, Batch Loss: 8.7625732421875
+INFO:root:Epoch 241, Batch Loss: 8.8232421875
+INFO:root:Epoch 242, Batch Loss: 8.8663330078125
+INFO:root:Epoch 243, Batch Loss: 8.73223876953125
+INFO:root:Epoch 244, Batch Loss: 8.5081787109375
+INFO:root:Epoch 245, Batch Loss: 8.77886962890625
+INFO:root:Epoch 246, Batch Loss: 8.81500244140625
+INFO:root:Epoch 247, Batch Loss: 8.70697021484375
+INFO:root:Epoch 248, Batch Loss: 8.47119140625
+INFO:root:Epoch 249, Batch Loss: 7.37689208984375
+INFO:root:Epoch 250, Batch Loss: 8.55853271484375
+INFO:root:Epoch 251, Batch Loss: 7.75396728515625
+INFO:root:Epoch 252, Batch Loss: 7.27972412109375
+INFO:root:Epoch 253, Batch Loss: 6.6695556640625
+INFO:root:Epoch 254, Batch Loss: 6.47918701171875
+INFO:root:Epoch 255, Batch Loss: 10.697998046875
+INFO:root:Epoch 256, Batch Loss: 6.53125
+INFO:root:Epoch 257, Batch Loss: 6.2425537109375
+INFO:root:Epoch 258, Batch Loss: 6.270751953125
+INFO:root:Epoch 259, Batch Loss: 6.00665283203125
+INFO:root:Epoch 260, Batch Loss: 6.012451171875
+INFO:root:Epoch 261, Batch Loss: 6.26580810546875
+INFO:root:Epoch 262, Batch Loss: 6.65533447265625
+INFO:root:Epoch 263, Batch Loss: 6.54058837890625
+INFO:root:Epoch 264, Batch Loss: 5.86749267578125
+INFO:root:Epoch 265, Batch Loss: 5.42327880859375
+INFO:root:Epoch 266, Batch Loss: 5.78668212890625
+INFO:root:Epoch 267, Batch Loss: 5.79443359375
+INFO:root:Epoch 268, Batch Loss: 5.607177734375
+INFO:root:Epoch 269, Batch Loss: 6.867919921875
+INFO:root:Epoch 270, Batch Loss: 5.48748779296875
+INFO:root:Epoch 271, Batch Loss: 6.19775390625
+INFO:root:Epoch 272, Batch Loss: 5.675048828125
+INFO:root:Epoch 273, Batch Loss: 5.47003173828125
+INFO:root:Epoch 274, Batch Loss: 5.69696044921875
+INFO:root:Epoch 275, Batch Loss: 5.8843994140625
+INFO:root:Epoch 276, Batch Loss: 5.94580078125
+INFO:root:Epoch 277, Batch Loss: 6.27069091796875
+INFO:root:Epoch 278, Batch Loss: 6.14141845703125
+INFO:root:Epoch 279, Batch Loss: 5.751953125
+INFO:root:Epoch 280, Batch Loss: 6.0675048828125
+INFO:root:Epoch 281, Batch Loss: 5.6385498046875
+INFO:root:Epoch 282, Batch Loss: 5.68621826171875
+INFO:root:Epoch 283, Batch Loss: 5.7568359375
+INFO:root:Epoch 284, Batch Loss: 5.2640380859375
+INFO:root:Epoch 285, Batch Loss: 5.7652587890625
+INFO:root:Epoch 286, Batch Loss: 6.36083984375
+INFO:root:Epoch 287, Batch Loss: 5.77545166015625
+INFO:root:Epoch 288, Batch Loss: 6.07415771484375
+INFO:root:Epoch 289, Batch Loss: 6.3240966796875
+INFO:root:Epoch 290, Batch Loss: 5.74139404296875
+INFO:root:Epoch 291, Batch Loss: 5.59002685546875
+INFO:root:Epoch 292, Batch Loss: 5.6090087890625
+INFO:root:Epoch 293, Batch Loss: 5.803466796875
+INFO:root:Epoch 294, Batch Loss: 5.3848876953125
+INFO:root:Epoch 295, Batch Loss: 5.45599365234375
+INFO:root:Epoch 296, Batch Loss: 5.56121826171875
+INFO:root:Epoch 297, Batch Loss: 5.8699951171875
+INFO:root:Epoch 298, Batch Loss: 5.42547607421875
+INFO:root:Epoch 299, Batch Loss: 5.42510986328125
+INFO:root:Epoch 300, Batch Loss: 5.82867431640625
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'M', 'M', 'M', 'M', 'M', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 波兰/ 总统克瓦/ 希<UNK>夫斯/ 基１/ ２月/ ３/ １日/ 通过/ 电视台/ 发表/ 新年/ 文告/ 指出/ ，/ 当今/ 波兰/ 社会/ 的/ 特点/ 是/ “/ 稳定/ 和/ 发展/ ”/ 。/ 这/ 是/ 全体/ 波兰/ 人民/ “/ 共同/ 努力/ ”/ 、/ “/ 一/ 起参/ 与/ ”/ 的/ 结果/ 。/ 波兰/ 人民/ 应该/ 为/ 取得/ 的/ 成就/ 感到/ “/ 自豪/ ”/ 。/ 他/ 说/ ，/ 现在/ ，/ 波兰/ 面临/ “/ 困难/ 的/ 挑战/ ”/ ，/ 因而/ ，/ 全社会/ 更/ 需要/ “/ 互相/ 理解/ ”/ ，/ 共同/ 建设/ 美好/ 的/ 波兰/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'M', 'M', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'M', 'M', 'M', 'M', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 本报/ 昆明/ １月/ ２日/ 电/ 截至/ １９９７年/ １２月/ ３/ １日/ ，/ 云南省/ 全面/ 完成/ 了/ １９９８年度/ 党报/ 党刊/ 订/ 阅发/ 行/ 任务/ ，/ 实现/ 了/ “/ 稳中/ 有/ 升/ ”/ 的/ 目标/ 。/ 具初/ 步统计/ ，/ 在/ 上年/ 订数/ 基础/ 上/ ，/ １９９８年度/ 的/ 人民/ 日报/ 完成/ １０/ ０．６２％/ 。/ （/ 云宣/ 新/ ）/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'M', 'M', 'M', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: １９９７年/ １２月/ ３１/ 日夜/ ，/ 严寒/ 袭人/ 。/ 乌鲁木/ 齐/ 国际/ 机场/ 的/ 一个/ 场面/ ，/ 却/ 热/ 烈感/ 人/ 。/ 新/ 疆航/ 空/ 公司/ 经理/ 张瑞/ <UNK>/ 和/ 党委/ 书记/ 刘/ 春池/ ，/ 带/ 领新航/ 的/ 领导/ 和/ 有/ 关部门/ 的/ 同志/ ，/ 在/ 此/ 迎接/ １９９７年/ 最后/ 一/ 个航/ 班胜/ 利归/ 来/ 。/ 岁/ 首/ “/ 放飞/ ”/ ，/ 岁末/ “/ 迎/ 归/ ”/ ，/ 在/ 新航/ 已/ 形成/ 制度/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 贺/ 新年/ ，/ 就/ 要/ 给/ “/ 压岁/ 钱/ ”/ 。/ 在/ 背/ 土/ 造田/ 的/ 同时/ ，/ 象角村/ 还修/ 建/ 了/ ６/ 公里/ 盘山路/ ，/ 更新/ 了/ ２０/ ００/ 多/ 亩/ 次/ 生林/ ，/ 增加/ 了/ 村/ 集体/ 收入/ 。/ 村里/ 决定/ 加大/ 对/ 耕田/ 的/ 投入/ ，/ 使/ 水/ 、/ 肥/ 、/ 种/ 、/ 药等/ 条件/ 得/ 以/ 改善/ ，/ 千方百计/ 提高/ 土地/ 的/ 投入/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 江/ 泽民/ 说/ ，/ 一九九七年/ ，/ 是/ 我们/ 党/ 和/ 国家/ 历史/ 上/ 非常/ 重要/ 而/ 又/ 极/ 不/ 平凡/ 的/ 一/ 年/ 。/ 年初/ ，/ 敬爱/ 的/ 邓小平/ 同志/ 离开/ 了/ 我们/ ，/ 全党/ 全军/ 全国/ 各族/ 人民/ 紧密/ 团结/ 在/ 党中央/ 周围/ ，/ 毫不/ 动/ 摇地/ 坚持/ 党/ 的/ 基本/ 理论/ 和/ 基本/ 路线/ ，/ 把/ 建设/ 有/ 中国/ 特色/ 社会/ 主义/ 事业/ 继续/ 推向/ 前进/ 。/ 我国/ 政府/ 顺利/ 恢复/ 对/ 香港/ 行/ 使/ 主权/ ，/ 保持/ 了/ 香港/ 的/ 繁荣/ 稳定/ ，/ 在/ 完成/ 祖国/ 统一/ 大业/ 的/ 道路/ 上/ 迈出/ 了/ 重要/ 的/ 一步/ 。/ 我们/ 胜利/ 召开/ 党/ 的/ 十五大/ ，/ 高举/ 邓小平/ 理论/ 伟大/ 旗帜/ ，/ 总结/ 历史/ ，/ 展望/ 未来/ ，/ 制定/ 了/ 党/ 在/ 社会/ 主义/ 初级/ 阶段/ 的/ 基本/ 纲领/ ，/ 对/ 改革/ 开放/ 和/ 现代化/ 建设/ 跨/ 世纪/ 发展/ 作出/ 了/ 全面/ 部署/ 。/ 这/ 两/ 件/ 大事/ ，/ 极/ 大地/ 鼓舞/ 全党/ 和/ 全国/ 各族/ 人民/ 更加/ 紧密/ 地/ 团结/ 起来/ ，/ 为/ 把/ 我/ 国建/ 成富/ 强民/ 主文明/ 的/ 社会/ 主义/ 现代化/ 国家/ ，/ 完成/ 祖国/ 统一/ 大业/ 而/ 奋斗/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 西藏/ 于/ １９８９年/ 专门/ 成立/ 西藏/ 藏文/ 古籍/ 出版社/ ，/ 以/ 科学/ 的/ 态度/ 搜集/ 、/ 整理/ 、/ 出版/ 藏文/ 古籍/ ，/ 尤其/ 是/ 以/ 抢救/ 濒临/ 失传/ 的/ 古代/ 手<UNK>/ 本/ 、/ 孤本/ 、/ 善本/ 和/ 珍/ 本为主/ ，/ 凡属西/ 藏/ 和/ 平解/ 放前/ 的/ 藏文/ 书籍/ 、/ 古代/ 木/ 简及金/ 石/ 文字/ 均得/ 到/ 保护/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S']
+INFO:root:Predicted Tags: 她们/ 是/ 两/ 代人/ ：/ 年/ 近/ ６０/ 岁/ 的/ 丁/ 玉珍/ 和/ 胡/ 花蕊/ 同志/ 已经/ 退休/ ，/ ２２/ 岁/ 的/ 孔/ 玲/ 则/ 在/ 中国/ 人民/ 大学/ 法学/ 院攻/ 读/ 硕士学/ 位/ 。/ 她们/ 是/ 应邀/ 参加中/ 宣部/ 召开/ 的/ 先进/ 典型/ 代表/ 座谈会/ 相聚/ 在/ 一起/ 的/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 综合/ 本报/ 和/ 新华社/ 电/ 在/ 辞旧迎/ 新之际/ ，/ 一些/ 国家/ 领导人/ 发表/ 文告/ 或/ 讲话/ ，/ 总结/ 过去/ ，/ 展望/ 未来/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S']
+INFO:root:Predicted Tags: 说/ 考古学/ 的/ 对象/ 是/ 物质/ 遗存/ ，/ 不/ 等/ 于/ 讲/ 这种/ 遗存/ 仅/ 为/ 物质/ 文化/ 。/ 可能/ 有/ 读者/ 知道/ ，/ <UNK>见/ 以/ 为/ 每种/ 人类/ 的/ 物质/ 遗存/ ，/ 都在/ 不同/ 程度/ 和/ 层面/ 上/ 反映/ 当时/ 的/ 精神/ 文化/ 。/ 大/ 至古/ 城址/ 、/ 陵<UNK>群/ ，/ 小/ 到/ 一/ 件/ 兵器/ 、/ 一/ 个佩饰/ ，/ 无/ 非/ 中华/ 文明/ 的/ 产物/ ，/ 寄寓/ 着/ 先民/ 的/ 意念/ 与/ 精神/ 。/ 所/ 以/ ，/ 我们/ 探索/ 中华文/ 明萌生/ 形成/ 、/ 发扬/ 光大/ 的/ 历程/ ，/ 不/ 可/ 缺少/ 考古/ 文物/ 。/ 这正/ 是/ “/ 纸/ 上/ 博物馆/ ”/ 胜于/ 其/ 他/ 类型/ 的/ 史籍/ 之/ 处/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S']
+INFO:root:Predicted Tags: 钱/ 其琛/ 在/ 讲话/ 中/ 指出/ ，/ 中国/ 和/ 南非/ 建立/ 外交/ 关系/ ，/ 是/ 两/ 国/ 关系史/ 中/ 一个/ 重要/ 里/ 程碑/ ，/ 标志/ 着/ 两/ 国友/ 好/ 合作/ 关系/ 新/ 篇章/ 的/ 开始/ 。/ “/ 我们/ 同/ 南非/ 朋友/ 一样/ 对/ 两/ 国/ 关系/ 实现/ 正常化/ 感到/ 高兴/ 。/ 我/ 愿/ 借此机会/ ，/ 向/ 长期/ 来/ 为/ 促进/ 中国/ 和/ 南非/ 人民/ 之间/ 的/ 了解/ 和/ 友谊/ ，/ 为/ 积极/ 推动/ 两/ 国/ 关系/ 正常化/ 进程/ 做出/ 不/ 懈努力/ 的/ 各界/ 人士/ 表示/ 诚挚/ 的/ 谢意/ ”/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'M', 'M', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'M', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 富丽/ 堂皇/ 的/ 维也纳/ 音乐/ 之友/ 协会/ 金色/ 大厅/ 里/ ，/ 一/ 首轻/ 松/ 欢快/ 的/ 《/ 骑/ 士进/ 行曲/ 》/ 再/ 一/ 次/ 拉开/ 了/ 维也纳/ 新年/ 音乐会/ 的/ 序幕/ 。/ １９９８年/ 新年/ 音乐会/ 演奏/ 的/ 主要/ 作品/ 仍/ 然是/ 施/ 特劳斯/ 父子/ 和/ 兄弟/ 创作/ 的/ 名曲/ ，/ 约翰·施/ 特劳斯/ 的/ 不<UNK>/ 之作/ 《/ 蓝色/ 多/ <UNK>河/ 》/ 和/ 其父/ 创作/ 的/ 《/ 拉/ 德茨基进/ 行曲/ 》/ 仍然/ 是/ 新年/ 音乐会/ 的/ 保留/ 曲目/ 。/ 但/ 是/ 音乐会/ 却/ 一/ 如/ 既/ 往地/ 引起/ 了/ 巨大/ 的/ 轰动/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S']
+INFO:root:Predicted Tags: 颁证会/ 后/ ，/ 李/ 铁映/ 同志/ 与/ 出席/ 会议/ 的/ 播音员/ 、/ 主持人/ 合影/ 留念/ 。/ 广播/ 电影/ 电视/ 部/ 副/ 部长/ 田/ 聪明/ 主持/ 了/ 今天/ 的/ 颁证会/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'M', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E']
+INFO:root:Predicted Tags: 北大荒/ 粮食/ 三年/ 连续/ 大幅/ 增产/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'S', 'S']
+INFO:root:Predicted Tags: 冬寒/ 爱意/ 浓/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S']
+INFO:root:Predicted Tags: 图为/ 盛/ 云龙/ 与/ 职工/ 一起/ 学习/ 《/ 邓小平/ 文选/ 》/ 。/ （/ 徐/ 建荣/ 摄/ ）/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'M', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'M', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S']
+INFO:root:Predicted Tags: １９９６年/ 出版/ 的/ 中国/ 地/ 图/ 上/ ，/ 在/ 新疆/ 南部/ 的/ 那/ 一/ 大片<UNK>黄色/ 的/ 地方/ ，/ 突然/ 多/ 了/ 一/ 条直线/ 。/ 这条/ 直线/ 从/ 塔里木/ 的/ 北缘/ 到/ 南缘/ ，/ 把/ 那片/ 大/ 沙漠/ <UNK>成/ 了/ 两半/ 。/ 这/ 就/ 是/ 横/ 穿塔克拉玛/ 干/ 的/ 沙漠/ 公路/ 。/ 进入九十/ 年代/ ，/ 号/ 称/ “/ 死亡/ 之海/ ”/ 的/ 塔里木/ 出现/ 了/ 奇迹/ ，/ 石油/ 职工/ 经过/ 几/ 十年/ 的/ 艰苦/ 勘探/ ，/ 在/ 那/ 里/ 发现/ 了/ 丰富/ 的/ 石油/ 储量/ 。/ 这/ 一/ 消息/ 让/ 人们/ 惊喜/ ，/ 也/ 让/ 人们/ 发<UNK>/ 。/ 因为/ 那/ 里/ 是/ “/ 生命/ 禁区/ ”/ ，/ 多/ 少代/ 中外/ 探险/ 家都/ 没有/ 穿越/ 那/ 里/ ，/ 何况/ 要/ 在/ 那/ 里/ 打/ 井/ 采油/ 呢/ ？/ 除/ 非那/ 里/ 出现/ “/ 神话/ ”/ ！/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 干河滩沟<UNK>/ 的/ 羊圈旁/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 概括/ 来/ 说/ ，/ 世界/ 华文/ 文学/ 的/ 研究/ ，/ 已/ 有/ 十/ 多/ 年/ 历史/ ，/ 但/ 以/ 女作家/ 的/ 创作/ 、/ 经历/ 凝成/ 传记/ 而/ 系统/ 记述/ ，/ 却/ 是/ 艰巨/ 的/ 工程/ 。/ 南昌/ 大学/ 文学/ 研究/ 所/ 以/ 罕见/ 的/ 魄力/ ，/ 在/ 出版事业/ 处于/ 困难/ 的/ 情势/ 下/ 而/ 出版/ 这样/ 上/ 百万/ 字/ 的/ 丛书/ ，/ 是/ 令/ 人钦/ 佩/ 的/ 。/ 我/ 相信/ 这/ 是/ 具有/ 继往/ 开来/ 意义/ 的/ 事业/ ，/ 一定/ 取得/ 广大/ 关心/ 世界/ 华文/ 文学/ 的/ 读者/ 的/ 支持/ 与/ 赞赏/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 新华社/ 马尼拉/ １月/ ２日/ 电/ 据/ 当地/ 报纸/ 今天/ 报道/ ，/ 从/ 去年/ 岁末/ 到/ 今年/ １月/ １日/ ，/ 在/ 菲律/ 宾全国/ 各地/ 举行/ 的/ 各种/ 辞旧迎新/ 狂欢/ 活动/ 中/ ，/ 共/ 有/ １７/ 人/ 死亡/ ，/ ５/ ００/ 多/ 人/ 受伤/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E']
+INFO:root:Predicted Tags: 粒/ 砂/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 晚会/ 在/ 南非/ 广播/ 公司/ 演播/ 大厅/ 举行/ ，/ 舞台/ 两/ 侧/ 台柱/ 上分/ 别雄/ 踞着/ 三/ 只/ 精心/ 扎制/ 的/ 南非/ 猎<UNK>/ 和/ 象征/ 中国/ 的/ 巨龙/ 。/ 正在/ 南非/ 访问/ 的/ 中国/ 国务院/ 副/ 总理/ 兼/ 外交/ 部长/ 钱/ 其琛/ 参加/ 了/ 这/ 一/ 联/ 欢晚会/ 。/ 在/ 隆重/ 热烈/ 的/ 气氛/ 中/ ，/ 南非华人代/ 表首先/ 发言/ 对/ 中国/ 与/ 南非/ 两/ 国/ 建交/ 表示/ 热烈/ 祝贺/ ，/ 并/ 为/ 祖国/ 的/ 不断/ 发展/ 强大/ 表示/ 自豪/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S']
+INFO:root:Predicted Tags: 在/ 谈/ 到/ 欧洲/ 的/ 政治/ 和/ 外交/ 问题/ 时/ ，/ 金克尔/ 认为/ ，/ １９９７年/ 是/ 欧洲/ 外交/ 和/ 安全/ 获得/ 成果/ 的/ 一/ 年/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E']
+INFO:root:Predicted Tags: 逐渐/ 成熟/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E']
+INFO:root:Predicted Tags: 忽/ 然/ ，/ 门外/ 走/ 进一/ 位/ 小/ 客人/ 。/ 他/ 一/ 米/ 多高/ ，/ 浓眉/ 大眼/ ，/ 一脸/ 清秀/ ，/ 身穿/ 一/ 套/ 特制/ 深色中山装/ ，/ 前/ 胸袋/ 里/ 插一/ 块红/ <UNK><UNK>/ 。/ 一问/ 才/ 知道/ ，/ 他/ 今年/ 四/ 岁/ 。/ 别看/ 他/ 年纪/ 小/ ，/ 言谈/ 举止/ 却/ <UNK>然/ 像个/ 大人/ ……/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 中国/ 政府/ 向/ 马达/ 加斯/ 加政府赠/ 送/ 价值/ ５/ ０万/ 人民币/ 的/ 药品/ 和/ 医疗/ 器械/ 的/ 交接/ 仪式/ １２月/ ３０日/ 在/ 塔那/ 那利佛/ 举行/ 。/ 中国/ 政府/ 自/ １９７５年/ 向/ 马派/ 遣医/ 疗队/ 以来/ ，/ 每年/ 都/ 向/ 马方/ 赠/ 送/ 药品/ 和/ 医疗/ 器械/ 。/ 中国/ 驻/ 马大/ 使/ 赵/ 宝珍/ 和/ 马卫/ 生部/ 长昂/ 里/ 埃特/ 女士/ 出席/ 了/ 交接/ 仪式/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'M', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 新年/ １９９８/ 。/ 如/ 按江/ 湖/ 中/ 流行/ 的/ 以<UNK>/ 运气/ 发横财/ 的/ <UNK>/ 音<UNK>/ 术来/ 说/ ，/ 可/ 以/ 称为/ “/ 你久/ 久发/ ”/ 。/ 汉字/ 六书/ ，/ 有其/ 优良/ 传统/ ；/ 但/ 条/ 条均可/ 假/ 借或/ 转注/ ，/ 发挥/ 某种/ 国民/ 劣根性/ ，/ 用/ 以/ 占/ <UNK>人/ 事吉/ 凶/ <UNK>福/ ，/ <UNK>弄/ 他/ 人/ 和/ 自己/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 冰雕/ 童话/ 世界/ （/ 图片/ ）/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E']
+INFO:root:Predicted Tags: 依托/ 传统/ 农业/ 跳/ 出/ 传统/ 农业/ 焦作/ 高效/ 农业/ 园区/ <UNK>然/ 兴起/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E']
+INFO:root:Predicted Tags: 封面/ 题字/ 启功/ 装帧/ 设计/ 陈/ 子劲/ 王/ 大川/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 这/ 一/ 现象/ 是旧/ 的/ 农田水利/ 建设/ 与/ 管理/ 制度/ 存在/ 的/ 深层/ 次/ 矛盾/ 和/ 问题/ 的/ 外在/ 反映/ 。/ 长期/ 以来/ ，/ 农田水利/ 事业/ 的/ 发展/ 一直受/ 到诸/ 多/ 因素/ 困扰/ ，/ 弊端/ 越/ 来越/ 明显/ ：/ 一/ 、/ 水利工程/ 的/ 所有者/ 和/ 使/ 用者/ 之间/ 权责/ 不/ 明确/ ，/ 利益/ 不/ 直接/ ，/ 管理/ 水平低/ ，/ 致使/ 水利/ 工程/ 老化/ 、/ 退化/ ，/ 毁坏/ 严重/ ，/ 难/ 以/ 充分/ 发挥/ 使/ 用效益/ 。/ 费县/ ３０/ ００/ 多/ 处/ 小型/ 农田水利/ 建设/ ，/ 全部/ 是/ 由/ 国家/ 、/ 集体/ 投资/ ，/ 加上/ 投劳兴/ 建/ 起来/ 的/ ，/ 所有/ 权归/ 国家/ 、/ 集体/ ，/ 农民/ 仅/ 是/ 使/ 用者/ 。/ 在/ 这种/ 情况/ 下/ ，/ 作为/ 水利工程/ 的/ 主要/ 受/ 益者/ 农民/ ，/ 对/ 水利工程/ 的/ 维护/ 管理/ 并/ 不关心/ ，/ 以致变/ 电器/ 被/ 盗/ 、/ 电线/ 被/ 割/ 、/ 闸/ 门/ 被/ 毁/ 、/ 渠道/ 被/ <UNK>/ 状况/ <UNK><UNK>/ 发生/ ，/ ３０％/ 的/ 设施/ 无法/ 使用/ 。/ 二/ 、/ 水/ 资源/ 浪费/ 严重/ 。/ 几/ 十年/ 来大/ 家习/ 惯于/ 用/ “/ 大<UNK>水/ ”/ ，/ 对/ 水/ 资源/ 不/ 加/ 珍惜/ ，/ 浇地/ 采用/ 大水/ 漫灌/ 的/ 方式/ ，/ 每/ 亩/ 地/ 浇/ 一/ 遍水/ 高/ 达/ ２００/ 多立/ 方米/ ，/ 有/ 的/ 竟达/ ３００/ 多立/ 方米/ ；/ 加/ 之/ 管/ 理跟/ 不上/ ，/ 跑/ 、/ 冒/ 、/ 滴/ 、/ <UNK>/ 现象/ 严重/ ，/ 水/ 的/ 利用率/ 还/ 不到/ ３０％/ 。/ 三/ 、/ 农民/ 没有/ 树立/ 起水/ 是/ 商品/ 的/ 观念/ ，/ 收取/ 水费/ 困难/ ，/ 每年/ 有/ ３/ ０％/ —４/ ０％/ 的/ 应/ 收水/ 费收/ 不上来/ ，/ 致使/ 工程/ 维护/ 缺乏/ 资金/ 来源/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S']
+INFO:root:Predicted Tags: 在/ 离我/ 家不远/ 的/ 一/ 条/ 小街/ 里/ ，/ 有/ 一个/ 很/ 热闹/ 的/ 早市/ 。/ 蔬菜/ 、/ 瓜果/ 、/ 家禽/ 、/ 水产/ 、/ 日用工/ 业品/ 都/ 有/ 。/ 不/ 过/ ，/ 还/ 是/ 农副产品/ 居/ 多/ ，/ 而/ 农副产品/ 中/ 又/ 数/ 蔬菜/ 最/ 多/ ，/ 品种/ 也/ 非常/ 丰富/ ，/ 连/ 南方/ 的/ 苦瓜/ 、/ <UNK>菜/ 、/ <UNK>菜/ 也/ 多/ 起来/ 了/ 。/ 尤其/ 在/ 夏秋两季/ ，/ 映入/ 你/ 眼<UNK>/ 的/ 尽/ 是/ 那/ 绿/ <UNK><UNK>/ 的/ <UNK>菜/ 、/ 油菜/ 、/ <UNK>菜/ ，/ 红/ <UNK><UNK>/ 的/ 西红<UNK>/ 、/ 红辣椒/ 、/ 胡/ <UNK><UNK>/ ，/ 水/ 灵灵/ 的/ 白<UNK><UNK>/ 、/ 大/ 白菜/ 、/ 大/ <UNK>椒/ ，/ 还/ 有/ 那<UNK>/ 蓝蓝/ 的/ <UNK>子/ 、/ 洋<UNK>/ ，/ 等/ 等/ 。/ 这些/ 蔬菜/ 纯真/ 的/ 色/ 彩我/ 一见/ 就/ 爱/ 。/ 它/ 是/ 自然/ 之美/ ，/ 是/ 画家调/ 色板/ 上/ 的/ 色彩/ 无法/ 与/ 之/ 相比/ 的/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S']
+INFO:root:Predicted Tags: 钱/ 其琛/ 还/ 指出/ ：/ “/ 南非/ 企业/ 也/ 已/ 将目/ 光<UNK>准/ 了/ 中国/ 市场/ 。/ 南非/ 与/ 中国/ 香港/ 特别/ 行政区/ 之间更/ 是/ 有着/ 重要/ 的/ 经贸/ 、/ 金融/ 和/ 航空/ 联系/ 。/ 中国/ 香港/ 同/ 南非/ 之间/ 的/ 贸易额/ 已/ 达/ 到/ １３亿/ 美元/ 。/ ”/ “/ 我们/ 有理/ 由/ 相信/ ，/ 两/ 国/ 关系/ 正常化/ 后/ ，/ 中国/ 南非/ 一定/ 会/ 成/ 为越/ 来越/ 重要/ 的/ 经贸/ 合作/ 伙伴/ 。/ ”/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 宁夏/ 农业/ 产业化/ 的/ 发展/ ，/ 成效/ 十分/ 明显/ 。/ 它/ 促进/ 了/ 资源/ 的/ 合理/ 配置/ ，/ 加速/ 了/ 经济/ 结构/ 的/ 优化/ 和/ 区域/ 经济/ 优势/ 的/ 形成/ ；/ 加快/ 了/ 市场/ 主体/ 发育/ ，/ 提高/ 了/ 农户/ 生产/ 的/ 组织化/ 程度/ ；/ 推动/ 了/ 农业/ 科技/ 的/ 发展/ 与/ 进步/ ；/ 增加/ 了/ 农民/ 收入/ ，/ 推动/ 了/ 农村/ 小康/ 建设/ 。/ 引黄/ 灌区/ １１/ 个/ 县市/ 农产品/ 的/ 综合商/ 品率/ 目前/ 已/ 超过６０％/ ，/ 科技/ 对/ 农业/ 的/ 贡献/ 份额/ 占/ ５/ ０％/ ，/ 去年/ 这里/ 农民/ 纯收入/ 达/ 到/ １９８６元/ 。/ 贫困/ 的/ 南部/ 山区/ ８个县/ 农民/ 人均/ 纯收入/ 达９１４/ 元/ ，/ 贫困人口/ 下降/ 到７６万/ ；/ 农业/ 产业化/ 的/ 广阔前景/ ，/ 已/ 引起/ 自治区/ 党委/ 、/ 政府/ 的/ 高度/ 重视/ 。/ 据悉/ ，/ 自治区/ 即将/ 出台/ 有关/ 推进/ 农业/ 产业化/ 的/ 政策/ ，/ 以/ 进一步/ 推动/ 全区/ 农业/ 产业化/ 的/ 快速/ 发展/ ，/ 带动/ 全区/ 农村/ 经济/ 发展/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'M', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: １９９８年/ 春天/ 即将/ 来临/ ，/ ２１/ 世纪/ 的/ <UNK>色/ 已/ 然可<UNK>/ 。/ 我/ 谨代/ 表海峡/ 两岸/ 关系/ 协会/ 向/ 台湾/ 同胞/ 、/ 向/ 关心/ 和/ 支持/ 祖国/ 统一/ 大业/ 的/ 港澳/ 及/ 海外/ 的/ 朋友/ 们/ ，/ 致以/ 新年/ 的/ 祝/ 贺和/ 诚挚/ 的/ 谢意/ ！/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E']
+INFO:root:Predicted Tags: 逐/ 渐生长/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E']
+INFO:root:Predicted Tags: 越总理/ 谈/ 今年/ 工作/ 指导/ 方针/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S']
+INFO:root:Predicted Tags: 吕梁/ 地区/ 坚持/ 不懈/ 、/ 持之以恒/ 地/ 严格/ 控制/ 人口/ 增长/ 。/ 他们/ 采取/ 的/ 主要/ 措施/ 有/ ：/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S']
+INFO:root:Predicted Tags: 待到/ 山花烂/ 漫时/ —/ —记/ 花鸟/ 画/ 家/ 、/ 美术教育家/ 孙/ 其峰/ 先生/ （/ 附/ 图片/ １张/ ）/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 《/ 中国/ 书院/ 辞典/ 》/ 浙江/ 教育/ 出版社/ 出版/ （/ 图片/ ）/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E']
+INFO:root:Predicted Tags: 灾区/ 各级/ 政府/ 全力/ 组织/ 抗灾力/ 争降/ 低/ 灾害/ 损失/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'B', 'E']
+INFO:root:Predicted Tags: 温馨/ 的/ 贺卡/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 本报/ 苏州/ １月/ １日/ 电/ 记者/ 龚/ 雯/ 报道/ ：/ １９９７年/ １２月/ ３/ １日/ 子夜/ ，/ 随着/ 苏州寒/ 山寺/ 钟声/ <UNK>响/ 第１０/ ８/ 下/ ，/ 姑苏/ 城内/ 一片/ 欢腾/ ，/ 中共中央/ 政治局/ 委员/ 、/ 国务委员罗/ 干/ 在/ 此/ 郑重/ 宣布/ ：/ ’/ ９/ ７中国/ 旅游年/ 圆满/ 结束/ ，/ ’/ ９８/ 华夏/ 城乡/ 游正式/ 开幕/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E']
+INFO:root:Predicted Tags: 起来/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'S', 'S']
+INFO:root:Predicted Tags: 潘/ 跃/ 王萍/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E']
+INFO:root:Predicted Tags: 三分/ 威严/ ，/ 七/ 分/ 纯朴/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 陕北/ ，/ 蒲公英/ 就/ 开放/ 了/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 当市/ 领导/ 为/ 寻求/ 人民/ 布厂/ 生存/ 之/ 道找到/ 盛/ 云龙/ 时/ ，/ 他/ 联合/ 另/ 一/ 位/ 退伍军/ 人———江南/ 集团/ 总/ 经理/ 沈/ 震林/ ，/ 毅然接/ 过/ 人民/ 布厂/ 这条/ 破船/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S']
+INFO:root:Predicted Tags: 黄河/ 腹地/ 的/ 回声/ ——/ 山西/ 画院/ 作/ 品展/ 在/ 京/ 举行/ （/ 附/ 图片３/ 张/ ）/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 开馆/ 仪式/ 在/ 原中国/ 国际/ 问题/ 研究/ 所/ 驻/ 比勒陀利亚/ 南非/ 研究/ 中心/ 所/ 在/ 地/ 举行/ 。/ 南非/ 外交部/ 部长/ 恩佐/ 、/ 各国/ 驻/ 南非/ 使节/ 、/ 南非/ 各界/ 人士/ 、/ 南非华人/ 华侨/ 代表/ 和/ 中国/ 外交/ 官以/ 及/ 新/ 闻机构/ 的/ 记者/ 约/ ３０/ ０人/ 目睹/ 了/ 这/ 一/ 激动/ 人心/ 的/ 历史性/ 时刻/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'M', 'M', 'M', 'E', 'S', 'B', 'M', 'M', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'M', 'M', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'M', 'M', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 在/ 中国/ 历史/ 上/ ，/ 有/ 过/ 多/ 少/ “/ 半/ 部论/ 语/ 治天/ 下/ ”/ 的/ 故事/ ，/ 不/ 得/ 而知/ 了/ ，/ 而/ “/ 一/ 部兵/ 书可为/ 王/ 者师/ ”/ 的/ 说法/ 却/ 是/ 真的/ 。/ 中国兵/ 书集/ 中着/ 中国/ 兵家先人/ 的/ 谋略/ 思想/ 精粹/ ，/ 也/ 就/ 在/ 无数/ 次/ 朝代/ 的/ 更迭/ 中/ ，/ 成就/ 了/ 无数/ 运筹/ 帷<UNK>/ 之中/ 、/ 决胜/ 千/ 里/ 之外/ 的/ 奇才/ 名/ 将/ 。/ 其间/ 的/ 多/ 谋善/ 算者/ ，/ 为/ <UNK>/ 王/ 将相/ 出谋/ 划策/ 的/ <UNK>内/ “/ 文才/ ”/ 、/ “/ 谋士/ ”/ ，/ 决不亚/ 于<UNK>/ <UNK>/ 风云/ 的/ “/ 武将/ ”/ 。/ 翻/ 开那/ 一/ 册册/ 浩<UNK>/ 的/ 兵书/ 史籍/ ，/ 我们/ 无/ 不/ 感到/ 一/ 种/ 中/ 国式/ 的/ “/ 奇/ 人/ 智慧/ ”/ 闪烁/ 其/ 中/ ，/ 能/ 从/ 中悟/ 出些/ 许齐/ 家治/ 国平/ 天下/ 的/ 深刻/ 哲理/ ，/ 却/ 是/ 我们/ 中国/ 人/ 的/ 独创/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S']
+INFO:root:Predicted Tags: 追求/ 崇高/ ——九七/ 年主/ 题性/ 美术/ 创作/ 点评/ （/ 附/ 图片/ ５/ 张/ ）/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 有/ 以/ 一/ 首歌/ 、/ 长/ 短/ 诗/ 震撼诗坛/ ，/ 也/ 记录/ 了/ 自己/ 成长/ 的/ 痕迹/ ，/ 画出/ 了/ 心/ 中/ 的/ 彩虹/ 花园/ ；/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'E']
+INFO:root:Predicted Tags: 用金/ <UNK>/ 打成/ 的/ 花<UNK>儿/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S']
+INFO:root:Predicted Tags: 图片/ ：/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'B', 'E', 'B', 'M', 'M', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 我们/ 要/ 更/ 好/ 地/ 坚持/ “/ 两手/ 抓/ 、/ 两/ 手/ 都/ 要硬/ ”/ 的/ 方针/ 。/ 在/ 坚持/ 以/ 经济/ 建设/ 为/ 中心/ 的/ 同时/ ，/ 积极/ 推进/ 社会/ 主义/ 精神文明/ 建设/ 和/ 民主/ 法制/ 建设/ ，/ 是/ 建设/ 富强/ 、/ 民主/ 、/ 文明/ 的/ 社会/ 主义/ 现代化/ 国家/ 的/ 重要/ 内容/ 。/ 实践/ 证明/ ，/ 经济/ 建设/ 的/ 顺利/ 进行/ ，/ 离不开/ 精神文明/ 建设/ 和/ 民主/ 法制/ 建设/ 的/ 保证/ 。/ 党/ 的/ 十五大/ 依据/ 邓小/ 平理论/ 和/ 党/ 的/ 基本/ 路线/ 提出/ 的/ 党/ 在/ 社会/ 主义/ 初级/ 阶段/ 经济/ 、/ 政治/ 、/ 文化/ 的/ 基本/ 纲领/ ，/ 为/ “/ 两手/ 抓/ 、/ 两/ 手/ 都/ 要硬/ ”/ 提供/ 了/ 新/ 的/ 理论/ 根据/ ，/ 提出/ 了/ 更高/ 要求/ ，/ 现在/ 的/ 关键/ 是/ 认真/ 抓好/ 落实/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'M', 'M', 'E', 'S']
+INFO:root:Predicted Tags: 本报/ 北京/ １２月/ ３１日/ 讯/ 新华社/ 记者/ 陈/ 雁/ 、/ 本报/ 记者/ 何加正/ 报道/ ：/ 在/ 度过/ 了/ 非/ 凡/ 而/ 辉煌/ 的/ １９９７年/ ，/ 迈/ 向/ 充满/ 希望/ 的/ １９９８年/ 之际/ ，/ ’/ ９８/ 北京/ 新年/ 音乐会/ 今晚/ 在/ 人民/ 大/ 会堂/ 举行/ 。/ 党/ 和/ 国家/ 领导/ 人/ 江/ 泽民/ 、/ 李/ 鹏/ 、/ 乔/ 石/ 、/ 朱/ 镕基/ 、/ 李/ 瑞环/ 、/ 刘/ 华清/ 、/ 尉/ 健行/ 、/ 李/ 岚清/ 与/ 万/ 名/ 首/ 都/ 各界/ 群众/ 和/ 劳动模范/ 代表/ 一起/ ，/ 在/ 激昂/ 奋进/ 的/ 音乐声/ 中/ 辞旧迎新/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'B', 'M', 'E', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'S', 'B', 'M', 'E', 'B', 'M', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'M', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S']
+INFO:root:Predicted Tags: 根据/ 资源/ 情况/ ，/ 各地/ 建立/ 和/ 完善/ 了/ 一/ 大批/ 农副产品/ 市场/ ，/ 以/ 组织/ 和/ 引导/ 农户/ 进行/ 生产/ 。/ 全区/ 已/ 有/ 各类/ 农副产品/ 市场/ ３６３/ 个/ ，/ 其中/ 具有/ 一定/ 规模/ 的/ 粮食/ 、/ 木材/ 、/ <UNK><UNK>/ 、/ 发菜/ 、/ 羊毛<UNK>/ 等/ 专业/ 批发/ 市场６８/ 个/ 。/ 同/ 心县/ 发菜/ 市场/ 已/ 成为/ 全国/ 最大/ 的/ 发菜集/ 散地/ ，/ 占/ 全国/ 总量８０％/ 的/ 发菜/ 从/ 这里/ 销往/ 全国/ 各地/ 。/ 银/ 川市/ 建有/ 农副产品批/ 发市场/ １９个/ ，/ 最/ 大/ 的/ 蔬菜/ 批发/ 市场/ 吸引/ 了/ 十几/ 个/ 省区/ 的/ 客商/ ，/ 年/ 成交额/ 达/ ３亿/ 元/ 。/ 吴忠/ 市乳/ 制品/ 集团/ 公司/ ，/ 属下/ 有/ １３家/ 乳品/ 加工/ 企业/ ，/ 由/ 公司/ 统一管/ 理产/ 、/ 供、销/ ，/ 如今/ ，/ 年产/ 奶粉/ ７０/ ００/ 吨/ 、/ 灭/ <UNK>奶２３００/ 多/ 吨/ ，/ 实现/ 销/ 售收入/ １．３亿/ 元/ ，/ 利税/ 逾１００/ ０万/ 元/ 。/ 这些/ 企业/ 联结/ 养殖/ 户/ ６/ ５/ ００/ 多/ 个/ ，/ 奶/ 牛饲/ 养量/ 达/ ３万/ 头/ ，/ 占/ 全区/ 的/ ６/ ０％/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'S', 'B', 'M', 'M', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 实现/ 祖国/ 的/ 完全/ 统一/ ，/ 是/ 海内外/ 全体/ 中国/ 人/ 的/ 共同/ 心愿/ 。/ 通过中/ 葡/ 双方/ 的/ 合作/ 和/ 努力/ ，/ 按照/ “/ 一/ 国/ 两制/ ”/ 方针/ 和/ 澳门/ 《/ 基本法/ 》/ ，/ １９９９年/ １２月/ 澳门/ 的/ 回归/ 一定/ 能够/ 顺利/ 实现/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S']
+INFO:root:Predicted Tags: 在/ 遭受/ 严重/ 自然/ 灾害/ 的/ 情况/ 下/ ，/ 依靠/ 科技/ 减灾/ 保证/ 农业/ 生产/ ，/ 吉林省/ 去年/ 粮食/ 总产/ 超过/ ２０/ ０亿/ 公斤/ ，/ 是/ 历史/ 上/ 第四个/ 丰收年/ 。/ 这/ 是/ 公主/ 岭市/ 怀德/ 粮/ 库正/ 在/ 收粮/ 。/ （/ <UNK>林/ 摄/ ）/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'M', 'M', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'M', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 波波卡/ 特佩/ 特火/ 山海/ 拔５/ ４/ ５２/ 米/ ，/ 是/ 墨西哥/ 第一/ 高峰/ 。/ 该火/ 山/ １９９４年/ １２月进/ 入活/ 动期/ ，/ １９９７年/ ６月/ ３０/ 日曾/ 发生/ 较大/ 喷发/ ，/ 喷出/ 的/ 火山灰/ 和/ 气体/ 高/ 达/ １．５万/ 米/ 。/ 入冬/ 以来/ ，/ 该火/ 山/ 一直/ 处/ 于/ 稳定/ 状态/ 。/ 目前/ ，/ 该/ 地区/ 仍/ 处于警/ 戒/ 状态/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'M', 'E', 'B', 'M', 'M', 'E', 'S', 'B', 'M', 'E']
+INFO:root:Predicted Tags: 一/ 只/ 只/ 憨态/ 可掬/ 的/ 布老虎/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'M', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E']
+INFO:root:Predicted Tags: 忠诚/ 的/ 共产主义/ 战士/ ，/ 久经/ 考验/ 的/ 无产/ 阶级/ 革命家/ 刘/ 澜涛/ 同/ 志逝/ 世/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S']
+INFO:root:Predicted Tags: 站/ 在/ 主持/ 开馆/ 仪式/ 的/ 讲台/ 上/ ，/ 王/ 学贤/ 说/ ：/ “/ 我/ 听说/ 本地/ 人民/ 有/ 天上/ 下雨/ 是/ 欢迎/ 客人/ 最佳/ 方式/ 的/ 说法/ ，/ 现在/ 这个/ 小雨/ 也/ 表明/ 了/ 我们/ 对/ 你/ 们所/ 有人/ 到/ 来/ 的/ 衷心/ 谢/ 意/ 。/ ”/ 一/ 番话/ 说得/ 人们/ 开怀/ 大笑/ 。/ 南非/ 外长/ 恩佐/ 在/ 致词/ 中/ 也/ 首先/ 说/ ，/ “/ 对/ 我们/ 两/ 国/ 关系/ 来/ 说/ ，/ 天/ 上/ 正在/ 下/ 的/ 这几/ 滴雨水/ 是/ 一个/ 大/ 好/ 的/ 兆头/ ！/ ”/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 中国/ 驻/ 突尼/ 斯/ 大使/ 吴/ 传福/ １２月/ ３０/ 日代/ 表中国/ 政府/ 向/ 突尼/ 斯/ “/ 全国/ 互助/ 基金/ ”/ 无偿/ 提供/ 了/ 价值/ ３０/ ０万/ 人民币/ 的/ 录像机/ 、/ 照相机/ 、/ 电脑/ 以及/ 各种/ 球类/ 等/ 体育/ 用品/ 和/ 设备/ 。/ （/ 本报/ 专电/ ）/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 矿工/ （/ 石<UNK>/ ）/ （/ 孙/ 宝田/ ）/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S']
+INFO:root:Predicted Tags: 吕梁/ 的/ 特点/ 是/ 贫困人口/ 占/ 全省/ 的/ １／/ ３/ 左右/ 。/ 吕梁/ 的/ 干部/ 群众/ 认识/ 到/ ，/ 扶贫/ 开发/ 与/ 计划生育/ 相/ 结合/ ，/ 是/ 解决/ 贫困/ 地区/ 人口/ 与/ 发展/ 问题/ 的/ 必/ 由/ 之路/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'S', 'S', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E']
+INFO:root:Predicted Tags: 首都/ 千/ 余/ 名/ 大中/ 小学/ 生雅/ 乐伴/ 随度/ 新年/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 读/ 这/ 本书/ ，/ 我/ 仿佛/ 听到/ 了/ 一/ 个饱/ 满/ 的/ 雨点/ ，/ 欣悦/ 地滴/ 落进/ 大海/ 的/ 音响/ 。/ 愿/ 这/ 声音/ 能传/ 入更/ 多/ 人/ 的/ 耳朵/ ，/ 滋润/ 更/ 多/ 人/ 的/ 心灵/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E']
+INFO:root:Predicted Tags: 我国/ 将/ 实行/ 播音员主持人/ 持证/ 上岗/ 制度/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 上午/ ９/ 时/ １０分/ ，/ 一/ 面鲜艳/ 的/ 五星红旗/ 在９/ ７２/ 号/ 院内新/ 竖起/ 的/ 旗<UNK>/ 上/ 冉冉/ 升起/ ，/ 随即响/ 起/ 了/ 激越/ 的/ 《/ 义勇军进/ 行曲/ 》/ 。/ 护卫/ 国/ 旗升/ 起/ 的/ ４位/ 青年/ 都/ 是/ 中国/ 大/ 使馆/ 工作/ 人员/ 。/ 为/ 了/ 这/ 一庄严/ 时刻/ 的/ 到来/ 和/ 确保/ 升/ 旗过/ 程万/ 无一失/ ，/ 他们/ 曾/ 多/ 次/ 在/ 夜深/ 人静/ 之/ 时/ 进行/ 演练/ 。/ 如今/ ，/ 他们/ 的/ 脸上/ 漾出/ 了/ 灿烂/ 的/ 微笑/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 唐国/ 强/ 回答/ ：/ “/ 我们/ 将/ 坚定/ 不移地/ 贯彻/ ‘/ 十五大/ ’/ 的/ 战略/ 方针/ ，/ 遵循/ 邓小平/ 同志/ 的/ 外交/ 思想/ ，/ 继续/ 全方/ 位/ 地/ 推行/ 独立自主/ 的/ 和平/ 外交/ 政策/ ，/ 为/ 社会/ 主义/ 现代化/ 建设/ 争取/ 一个/ 长期/ 良好/ 的/ 国际/ 环境/ ，/ 特别/ 是/ 周边/ 环境/ ，/ 维护/ 世界/ 和平/ ，/ 促进/ 共同/ 发展/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 本报/ 北京/ １月/ １日/ 讯/ 记者/ 刘/ 小明/ 报道/ ：/ １９９８年/ 第一/ 天/ ，/ 北京/ 、/ 上海/ 同/ 时/ 举行/ 以全民/ 健身/ 为/ 主题/ 的/ 元/ 旦登/ 高/ 活动/ 。/ 首/ 都/ 近万/ 名/ 群众/ 来到/ 八达/ 岭<UNK>/ 登/ 长城/ ，/ 上海/ 千/ 名男/ 女老少/ 在/ 东方/ 明珠/ 塔内奋力/ 登高/ 。/ 与/ 此/ 同时/ ，/ 中央/ 电视/ 台和/ 上海/ 东方/ 电视台/ 对/ 这/ 两/ 项/ 活动/ 进行/ 双/ 向/ 传送/ 直播/ ，/ 为/ 元旦/ 电视/ 节目/ 增添/ 了/ 新内容/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S']
+INFO:root:Predicted Tags: 孙/ 其峰/ 先生/ 在/ 继承/ 与/ 创新/ 相/ 结合/ 的/ 基础/ 上/ ，/ 建立/ 了/ 较/ 完整/ 的/ 美术/ 理论/ 体系/ 。/ 他/ 参与编/ 写/ 制定/ 的/ 教学/ 大纲/ ，/ 有/ 理论/ 、/ 有/ 步骤/ 、/ 有/ 方法/ ，/ 理论/ 与/ 技法/ 紧密/ 结合/ ，/ 构成/ 一个/ 新/ 的/ 教学/ 体系/ 。/ 其/ 特点/ ：/ 一/ 是/ 在/ 教材/ 选择/ 上/ 以少胜/ 多/ 。/ 即从/ 众多/ 的/ 题材/ 中/ ，/ 选择少/ 量有/ 代表/ 的/ 对象/ ，/ 在/ 一些/ 共性/ 问题/ 上/ 多/ 下/ 功夫/ 。/ 如画/ <UNK>丹/ 、/ <UNK>药/ 、/ <UNK><UNK>/ 、/ 扶桑/ 时/ ，/ 只选/ 有代/ 表性/ 的/ <UNK>丹/ 。/ 只要/ 先/ 画/ 好/ <UNK>丹/ ，/ 其他/ 的/ 花卉/ 则/ 一/ 点/ 即通/ ，/ 迎<UNK>/ 而解/ 。/ 二是/ 要/ “/ 以/ 多/ 胜少/ ”/ 。/ 如/ 对/ 画<UNK>丹/ 的/ 时间/ 安排/ 上/ ，/ 要/ 突出/ 重点/ ，/ 增加/ 训练/ 时间/ ，/ 务必学/ 精学/ 透/ 。/ 这样/ 在/ 画其/ 他/ 花卉/ 时/ 能/ 用/ 较/ 少/ 的/ 时间/ 收到/ 举一/ 反三/ 、/ 触类/ 旁通/ 的/ 效果/ 。/ 三/ 是/ 对/ 某一/ 题材/ 选定/ 后/ ，/ 要/ 长期/ 地坚/ 持画/ 下去/ ，/ 反/ 复/ 研究/ ，/ 下/ 苦功夫/ ，/ 最后/ 达/ 到/ 最佳/ 境界/ 。/ 在/ 他/ 的/ 悉心教育/ 和/ 引导/ 下/ ，/ 许多/ 学生/ 已/ 成为/ 全国/ 很/ 有/ 影响/ 的/ 画家/ 、/ 理论家/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: ２３/ 时/ １０分/ ，/ 执行/ 桂林/ 航线/ 的/ ２６３０号/ 飞机平/ 稳地/ 降落/ 在/ 停机/ 坪上/ 时/ ，/ 人/ 们迎/ 上/ 前/ 去/ ，/ 紧紧/ 握住/ 机长/ 张/ 启彬/ 的/ 手/ ，/ 祝贺/ １９９７年/ 最后/ 一/ 个航/ 班安/ 全返航/ 。/ 至此/ ，/ 新/ 疆航/ 空/ 公司/ 已/ 安全/ 飞行/ ４２/ 年/ 无事故/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E']
+INFO:root:Predicted Tags: 只/ 有/ 沉寂/ ，/ 填/ 满空/ 谷/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E']
+INFO:root:Predicted Tags: 早已/ 消失/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 上/ 午九/ 时/ ，/ 北京/ 东直门/ 敬老院/ 一/ 改往日/ 的/ 宁静/ ，/ 来自/ 东直门/ 中学/ 的/ 八/ 位/ 中学生/ 志/ 愿者/ 为/ 这里/ 的/ 爷爷/ 、/ 奶奶/ 表演/ 了/ 赶排/ 的/ 文艺/ 节目/ ，/ 还和/ 老人/ 们/ 一/ 起包/ 饺子/ 、/ 贴春/ 联/ ，/ 使/ 敬老院/ 内/ 充满/ 了/ 喜庆/ 、/ 祥和/ 的/ 节日/ 气氛/ 。/ 作为/ 成人/ 预备期/ 志/ 愿/ 服务/ 基地/ ，/ 东直门/ 敬老院/ 内/ 经常/ 能/ 看/ 到/ 青年/ 志愿者/ 们/ 忙碌/ 的/ 身影/ 。/ 在/ 过去/ 的/ 三年/ 中/ ，/ 北京市/ 五十五中学/ 、/ 财经学校/ 等/ 附/ 近/ 住地/ 的/ 青年/ 志愿者/ 们/ 共/ 为/ 老人/ 提供/ 各/ 类服/ 务二/ 千/ 余/ 人次/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'M', 'M', 'M', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'M', 'E', 'B', 'M', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 上/ 午九/ 时二十分/ ，/ 李/ 鹏/ 总理/ 在/ 北京/ 市委/ 书记/ 、/ 市长/ 贾/ 庆林/ 的/ 陪同/ 下/ ，/ 来到/ 位于/ 北京/ 西郊/ 的/ 北京/ 石景山/ 发电/ 总厂/ 。/ 始/ 建于/ 一九一九年/ 的/ 北京/ 石景山/ 发电/ 总厂/ 是/ 华北/ 电力/ 集团/ 公司/ 骨干/ 发电/ 企业/ ，/ 承/ 担着/ 向/ 首都/ 供电/ 、/ 供热/ 任务/ ，/ 装机/ 总/ 容量/ 一/ 百一十/ 六/ 点/ 六万/ 千瓦/ 。/ 总厂/ 年/ 发电量/ 四十五亿/ 千瓦/ 时/ ，/ 供热/ 能力/ 八百百万/ 大卡／/ 小/ 时/ ，/ 现供/ 热/ 面积/ 已/ 达/ 八百/ 多/ 万平/ 方米/ 。/ 早在/ 担任/ 华北/ 电/ 管局/ 领导/ 时/ ，/ 李/ 鹏/ 就/ 曾/ 多/ 次到/ 发电/ 总厂/ 检查/ 指导/ 工作/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 他/ 对/ 研究/ 西方/ 绘画/ 技法/ 也/ 切实/ 下/ 过/ 苦功/ 。/ 在/ 天津/ 美院/ 他/ 讲/ 授过/ 《/ 绘画/ 透视学/ 》/ ，/ 并/ 发表/ 了/ 《/ 中国/ 画透视学/ 》/ 的/ 专文/ 。/ 他/ 经常/ 奔赴/ 各地/ 写生/ 。/ 几/ 十年/ 来/ ，/ 他/ 十/ 下/ 江南/ ，/ 七赴/ 塞北/ ，/ 留下/ 大量速写/ ，/ 创作/ 了/ 许多/ 有/ 影响/ 的/ 佳作/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S']
+INFO:root:Predicted Tags: 明天/ ，/ 我们/ 将/ 看到/ 一/ 群/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S']
+INFO:root:Predicted Tags: 在/ 抢救/ 出版/ 的/ 古籍/ 中/ ，/ 有/ 反映/ 藏民族/ 历史/ 的/ 孤本/ 《/ 德/ 吴/ 宗/ 教/ <UNK>流/ 》/ ，/ 还/ 有/ 《/ 西藏/ 历代法/ 规选编/ 》/ 、/ 《/ 藏族/ 工艺典/ 籍选编/ 》/ 、/ 《/ 医学论/ 著选编/ 》/ 、/ 《/ 西藏/ 古迹选编/ 》/ 、/ 《/ 西藏/ 简明/ 通史/ 》/ 等/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E']
+INFO:root:Predicted Tags: 国务院/ 侨办/ 发表/ 新年/ 贺词/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'S', 'B', 'E', 'B', 'E']
+INFO:root:Predicted Tags: 半生/ 用/ 血抚/ 养<UNK>/ 枪/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'M', 'M', 'M', 'M', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 本报/ 北京/ １２月/ ３０日/ 讯/ 新华社/ 记者/ 胡/ 晓梦/ 、/ 本报/ 记者/ 吴/ 亚明/ 报道/ ：/ 新年/ 将/ 至/ ，/ 国务院/ 侨务/ 办公室/ 主任/ 郭/ 东坡/ 今天/ 通过/ 新/ 闻媒/ 介/ ，/ 向/ 海外/ 同胞/ 和/ 国内/ 归侨/ 、/ 侨眷/ 、/ 侨务/ 工作者/ 发表/ 新年/ 贺词/ 。/ 他/ 代表中华人民/ 共和国国务院/ 侨务/ 办公室/ ，/ 向/ 广大/ 海外/ 同胞/ 和/ 国内/ 归侨/ 、/ 侨眷/ 、/ 侨务/ 工作者/ ，/ 致以亲切/ 的/ 问候/ 和/ 美好/ 的/ 祝愿/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E']
+INFO:root:Predicted Tags: 凝眸/ 岁月/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'M', 'M', 'M', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 本报/ 约翰/ 内斯堡/ １２月/ ３１日/ 电/ 记者/ 温/ 宪/ 报道/ ：/ 为热/ 烈庆/ 祝/ 中国/ 与/ 南非/ 建立/ 正式/ 外交/ 关系/ 和/ 欢迎/ 钱/ 其琛/ 副/ 总理/ 兼/ 外长/ 访问/ 南非/ ，/ 南非华人/ 华侨/ 今晚/ 在/ 此间/ 举行/ 了/ 庆祝/ 联欢/ 晚会/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 去年/ 夏季/ ，/ 云/ 岩区/ 在/ 繁华/ 街区/ 为/ 下岗/ 职工/ 专门/ <UNK>出/ 一/ 段街/ 道作/ 为/ 夜市/ 摊位/ ，/ 不少/ 职工/ 不仅/ 解决/ 了/ 生活/ 问题/ ，/ 还/ 走/ 上/ 了/ 自谋/ 发展/ 的/ 路子/ 。/ “/ 两节/ ”/ 期间/ ，/ 市里/ 又/ 在省/ 展览/ 馆等年/ 货市/ 场/ ，/ 为/ 困难/ 职工/ 增加/ 了/ 上/ 千/ 个/ 摊位/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'E']
+INFO:root:Predicted Tags: 天气/ 趋势/ 分析/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 去年/ 企业/ 兼并额/ 名列/ 第二/ 至/ 第七/ 名/ 的/ 国家/ 依次/ 为/ 英国/ 、/ 法国/ 、/ 加/ 拿/ 大/ 、/ 澳大利亚/ 、/ 德国/ 和/ 意大利/ 。/ 英国/ 虽/ 名列/ 第二/ ，/ 但/ 全年/ 企业/ 并/ 购案/ 仅/ １９０８件/ ，/ 并购/ 金额/ 也/ 只有/ １１/ ９/ ０亿/ 美元/ ，/ 远低/ 于/ 美国/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 在/ 新年/ 的/ 钟声/ 敲响/ 的/ 时刻/ ，/ 面对/ 岁月/ ，/ 这/ 是/ 我/ 的/ 歌我/ 的/ 心音/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'B', 'E']
+INFO:root:Predicted Tags: <UNK>/ 满/ 工作/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 省长/ 田<UNK>山/ 来到/ 大/ 庆市/ 萨尔图区/ 看望/ 下岗/ 职工/ ，/ 他/ 给/ 残疾/ 人/ 郭景文/ 送/ 去/ 慰问金/ 后/ ，/ 又/ 来到/ 于/ 洪洋/ 的/ 家/ 。/ 喝着/ 冒/ 热气/ 的/ 粗茶/ ，/ 省长/ 和/ 下岗/ 职工/ 一/ 起/ 探讨/ 择业/ 观念/ 的/ 转变/ ，/ 探讨/ 如何/ 多/ 方面/ 开<UNK>/ 就业/ 渠道/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'M', 'M', 'M', 'M', 'M', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'M', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'M', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 刚果/ 民主/ 共和国/ 总统卡比拉/ １２月/ ３/ １日/ 向/ 全国/ 发表/ 广播/ 电视/ 讲/ 话/ 说/ ，/ １９９７年/ 是/ 刚果/ （/ 民/ ）/ 人民/ 摆脱/ <UNK>役/ 的/ 一/ 年/ ，/ 而/ １９９８年/ 将/ 是/ 国家/ 重建/ 和/ 民族/ 振兴/ 的/ 一/ 年/ 。/ 卡比拉/ 指出/ ，/ 在/ 新/ 的/ 一/ 年/ 里/ ，/ 刚果/ （/ 民/ ）/ 政府/ 将/ 着手/ 执行/ 旨在/ 为民/ 造福/ 的/ 三年/ 计划/ ，/ 尽快/ 恢复交通/ 、/ 通讯/ 等/ 基础/ 设施/ 的/ 建设/ 。/ 他/ 说/ ，/ 政府/ 将/ 优先/ 发展/ 农业/ ，/ 以/ 减少/ 粮食/ 进口/ 。/ 他/ 还/ 强调/ 要/ 建立/ 一支/ 由/ 青年/ 组成/ 的/ 准军/ 事/ 性质/ 的/ “/ 国民/ 服务队/ ”/ ，/ 其/ 任务/ 是/ 保卫/ 、/ 建设/ 国家/ ，/ 捍/ 卫民族/ 团结/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E']
+INFO:root:Predicted Tags: ３/ 、/ 百年/ 老矿/ 创新绩/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'M', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 俄/ 第一/ 次/ 货币/ 改/ 值/ 是/ 在/ １９９１年/ ；/ 俄/ 发行/ 新版/ 卢布取/ 代前/ 苏联/ 流通/ 的/ 卢布/ 。/ 第二/ 次/ 在/ １９９３年/ ；/ 俄/ 宣布/ 停止/ 使/ 用/ １９６１—/ １９/ ９２/ 年/ 苏联版/ 卢布/ 和/ 俄/ １９９２年版/ 卢布/ ，/ 只允/ 许流/ 通１９９３年版/ 新/ 卢布/ 。/ 这前/ 两/ 次/ 改/ 值/ 都/ 只/ 提前/ 几/ 天/ 公/ 布方/ 案/ ，/ 而且/ 规定/ 必须/ 在/ 数/ 天/ 内/ 将/ 旧/ 币/ 换成/ 新币/ ，/ 居民/ 常/ 常要排/ 上/ 几/ 公里/ 的/ “/ 长龙/ ”/ 才/ 能/ 将手/ 上/ 旧币/ 兑/ 成新币/ ，/ 导/ 致大/ 多/ 数老百<UNK>/ 对/ 货币/ 改/ 值/ 心有/ 余/ <UNK>/ 。/ 这次/ 改/ 值/ 则/ 提前/ ５/ 个月/ 公布/ 货币/ 改/ 值/ 方案/ ，/ 并/ 留出/ 充裕/ 的/ 时间/ 使/ 居民可/ 从容/ 地/ 兑换/ 新币/ 。/ 俄/ 政府/ 保证/ 这次/ 改/ 值/ 不/ 会像/ 前/ 两/ 次/ 那样/ 让/ 居民/ 利益/ 受损/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'M', 'E', 'S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'S', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'M', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 大学/ 生们/ 整齐/ 地立/ 在/ 广场/ 上/ ，/ 他们/ 面对/ 国旗/ ，/ 举起/ 右手/ ，/ 高声/ 倡议/ ：/ “/ 响/ 应江/ 泽民/ 总书记/ 的/ 号召/ ，/ 胸怀祖国/ ，/ 服务/ 人民/ ，/ 争做/ 跨/ 世纪/ 的/ 栋梁/ 之材/ 。/ ”/ 他们/ 庄严/ 宣誓/ ：/ “/ 继承/ 北大/ 光荣/ 革命/ 传统/ ，/ 高举/ 邓小平/ 理论/ 伟大/ 旗帜/ ，/ 紧密/ 团结/ 在/ 以/ 江/ 泽民/ 同志/ 为/ 核心/ 的/ 党中央/ 周围/ ，/ 为/ 实现/ 中华民族/ 的/ 全民/ 振兴而努力/ 奋斗/ 。/ ”/ 誓/ 词伴/ 随着/ 《/ 歌唱/ 祖国/ 》/ 的/ 激越/ 旋律/ 久久/ 回荡/ 在/ 广场/ 上空/ ，/ 飞扬/ 的/ 青春昭/ 示着/ 祖国/ 灿烂/ 的/ 明天/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'M', 'M', 'E']
+INFO:root:Predicted Tags: 担心/ 亚洲/ 金融/ 动荡/ 殃及/ 本国/ 经济/ 美不再/ 隔岸/ 观火/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['S', 'B', 'E', 'S', 'S', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'S', 'S', 'B', 'M', 'M', 'E', 'B', 'M', 'M', 'E', 'S', 'B', 'E', 'S', 'B', 'E', 'B', 'E', 'S']
+INFO:root:Predicted Tags: 于/ 永波/ 等/ 在/ 同/ 应邀/ 参加中/ 宣部/ 召开/ 的/ 全国/ 先进/ 典型/ 座谈会/ 的/ 军队/ 代表/ 徐/ 洪刚/ 、/ 韩素云/ 、/ 李/ 国安/ 、/ 邹延/ 龄/ 、/ 第四/ 军医/ 大/ 学学/ 员二大队/ 代表/ 李/ 尔/ 青以/ 及武/ 警部/ 队国/ 旗护/ 卫队/ 代表/ 王/ 建华/ 座谈/ 时/ ，/ 称赞/ 他们/ 的/ 先进/ 事迹/ 是/ 中华民族/ 传统/ 美德/ 和/ 我党我军/ 优良/ 传统/ 的/ 完美/ 结合/ ，/ 体现/ 了/ 我党我军/ 全心/ 全意/ 为/ 人民/ 服务/ 的/ 宗旨/ ，/ 体现/ 了/ 与/ 社会/ 主义/ 市场/ 经济/ 相/ 适应/ 的/ 时代/ 精神/ 。/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'E', 'B', 'E', 'B', 'E', 'S', 'B', 'M', 'M', 'M', 'E', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'S']
+INFO:root:Predicted Tags: 明天/ 气象/ 预报/ （/ １９９８年/ 元月/ １日/ ２０/ 时/ —/ 元月/ ２日/ ２０/ 时/ ）/ 
+INFO:root:---------------------
+INFO:root:True Tags: ['B', 'M', 'M', 'E', 'S', 'B', 'E', 'B', 'E', 'B', 'M', 'E', 'B', 'E']
+INFO:root:Predicted Tags: １９９/ ７大/ 地震/ 减少/ 伤亡者/ 增多/ 
+INFO:root:---------------------

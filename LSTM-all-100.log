@@ -1,0 +1,10 @@
+INFO:root:Epoch 1, Batch Loss: 4.2493133544921875
+INFO:root:Epoch 2, Batch Loss: 3.7276153564453125
+INFO:root:Epoch 3, Batch Loss: 3.375579833984375
+INFO:root:Epoch 4, Batch Loss: 3.317230224609375
+INFO:root:Epoch 5, Batch Loss: 3.256561279296875
+INFO:root:Epoch 6, Batch Loss: 3.171844482421875
+INFO:root:Epoch 7, Batch Loss: 3.2442169189453125
+INFO:root:Epoch 8, Batch Loss: 3.35736083984375
+INFO:root:Epoch 9, Batch Loss: 3.5800018310546875
+INFO:root:Epoch 10, Batch Loss: 3.273193359375

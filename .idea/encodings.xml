@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BPE-FNN.log" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/BPE-LSTM.log" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/BPE-phrase.log" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/BPE.log" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/ChineseCorpus199801.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/FMM_result.json" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/FMM_result.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/LSTM-1000.log" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/LSTM_result.json" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/LSTM_result.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/cleaned_text.json" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/cleaned_text.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/output.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/path_to_save_model-3.pth" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/pre_vocab.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/segmented_text.json" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/vocabulary.txt" charset="GB18030" />
+  </component>
+</project>
